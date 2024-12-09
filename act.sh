@@ -2,7 +2,7 @@
 
 TOKEN="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"
 OWNER="azeasz"
-REPO="repository"
+REPO="kingspark/cursor-vip"
 
 # Star
 curl -X PUT -H "Authorization: token $TOKEN" https://api.github.com/user/star/$OWNER/$REPO
